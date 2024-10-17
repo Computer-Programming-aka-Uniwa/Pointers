@@ -15,6 +15,8 @@ For the detailed Documentation, click the link:
 
 This repository contains a C program that demonstrates the use of pointers in various functions. Pointers are a fundamental concept in C that allow developers to directly manipulate memory addresses, leading to efficient memory management and data handling. This program includes features for user input, dynamic memory allocation, and various operations involving arrays and matrices.
 
+---
+
 ## Course Information
 - **Course**: Computer Programming
 - **Semester**: 1
@@ -26,6 +28,8 @@ This repository contains a C program that demonstrates the use of pointers in va
 - **Name**: Athanasiou Vasileios Evangelos
 - **Student ID**: ice19390005
 - **Status**: Undergraduate
+
+---
 
 ## Key Concepts Covered
 
@@ -41,6 +45,8 @@ This repository contains a C program that demonstrates the use of pointers in va
 ### 4. **Passing by Reference**
 - By using pointers, the program allows functions to modify variables defined in other functions. This is particularly useful for returning multiple values or when a function needs to alter the state of its arguments.
 
+---
+
 ## Functions in the Program
 
 ### Key Functions:
@@ -53,6 +59,16 @@ This repository contains a C program that demonstrates the use of pointers in va
 ### Example Use Cases:
 - Calculating the frequency of numbers in generated combinations.
 - Searching for specific conditions within arrays using pointer-based logic.
+
+---
+
+## Requirements
+
+- **C Compiler**: GCC or any standard C compiler.
+- **Operating System**: Linux/Windows/MacOS.
+- **Development Environment**: Command Line or IDE.
+
+---
 
 ## Installation and Usage
 
@@ -89,6 +105,8 @@ gcc -o Combinations Combinations.c
 
 Αυτό το αποθετήριο περιέχει ένα πρόγραμμα σε C που демонстрации τη χρήση δεικτών σε διάφορες συναρτήσεις. Οι δείκτες είναι μια θεμελιώδης έννοια στη C που επιτρέπει στους προγραμματιστές να χειρίζονται άμεσα διευθύνσεις μνήμης, οδηγώντας σε αποτελεσματική διαχείριση μνήμης και χειρισμό δεδομένων. Αυτό το πρόγραμμα περιλαμβάνει δυνατότητες για είσοδο χρηστών, δυναμική δέσμευση μνήμης και διάφορες λειτουργίες που σχετίζονται με πίνακες και μήτρες.
 
+---
+
 ## Πληροφορίες Μαθήματος
 - **Μάθημα**: Προγραμματισμός Υπολογιστών
 - **Εξάμηνο**: 1
@@ -100,6 +118,8 @@ gcc -o Combinations Combinations.c
 - **Όνομα**: Αθανασίου Βασίλειος Ευάγγελος
 - **Αριθμός Μητρώου**: ice19390005
 - **Κατάσταση**: Προπτυχιακός
+
+---
 
 ## Βασικές Έννοιες που Καλύπτονται
 
@@ -115,6 +135,8 @@ gcc -o Combinations Combinations.c
 ### 4. **Πέρασμα από Αναφορά**
 - Χρησιμοποιώντας δείκτες, το πρόγραμμα επιτρέπει στις συναρτήσεις να τροποποιούν μεταβλητές που έχουν οριστεί σε άλλες συναρτήσεις. Αυτό είναι ιδιαίτερα χρήσιμο για την επιστροφή πολλών τιμών ή όταν μια συνάρτηση χρειάζεται να αλλάξει την κατάσταση των επιχειρημάτων της.
 
+---
+
 ## Συναρτήσεις στο Πρόγραμμα
 
 ### Βασικές Συναρτήσεις:
@@ -127,6 +149,16 @@ gcc -o Combinations Combinations.c
 ### Παραδείγματα Χρήσης:
 - Υπολογισμός της συχνότητας εμφάνισης αριθμών σε παραγόμενους συνδυασμούς.
 - Αναζήτηση συγκεκριμένων συνθηκών μέσα σε πίνακες χρησιμοποιώντας λογική βασισμένη σε δείκτες.
+
+---
+
+## Απαιτήσεις
+
+- **Μεταγλωττιστής C**: GCC ή οποιοσδήποτε συμβατικός μεταγλωττιστής C.
+- **Λειτουργικό Σύστημα**: Linux/Windows/MacOS.
+- **Περιβάλλον Ανάπτυξης**: Γραμμή εντολών ή IDE.
+
+---
 
 ## Εγκατάσταση και Χρήση
 
