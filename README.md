@@ -18,7 +18,7 @@ This repository contains a C program that demonstrates the use of pointers in va
 ---
 
 ## Course Information
-- **Course**: Computer Programming
+- **Course**: [Computer Programming](https://ice.uniwa.gr/education/undergraduate/courses/computer-programming/)
 - **Semester**: 1
 - **Program**: [UNIWA](https://www.uniwa.gr/)
 - **Department**: [Informatics and Computer Engineering](https://ice.uniwa.gr/)
