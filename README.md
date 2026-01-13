@@ -197,7 +197,6 @@ Windows
 ```bash
 Combinations.exe
 ```
-
 ---
 
 ## Open the Documentation
