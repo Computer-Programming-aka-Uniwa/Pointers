@@ -28,13 +28,30 @@
   <a href="https://www.linkedin.com/in/vasilis-athanasiou-7036b53a4/" target="_blank">LinkedIn</a>
 </p>
 
+<hr/>
+
 <p align="center">
-  Supervisor: Georgios Meletiou, Laboratory Teaching Staff<br>
+  <strong>Supervision</strong>
+</p>
+
+<p align="center">
+  Supervisor: Nikolaos Vassilas, Professor<br>
+</p>
+
+<p align="center">
+  <a href="https://ice.uniwa.gr/en/emd_person/nikolaos-vassilas/" target="_blank">UNIWA Profile</a>
+</p>
+
+
+<p align="center">
+  Co-supervisor: Georgios Meletiou, Laboratory Teaching Staff<br>
 </p>
 
 <p align="center">
   <a href="https://ice.uniwa.gr/en/emd_person/georgios-meletiou/" target="_blank">UNIWA Profile</a>
 </p>
+
+</hr>
 
 <p align="center">
   Athens, January 2022
