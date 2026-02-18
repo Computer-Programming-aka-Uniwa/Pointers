@@ -75,8 +75,7 @@
 
 ## Arrays, Pointers, Files
 
-This repository contains **introductory laboratory material** for the  
-**Computer Programming** course at the **University of West Attica (UNIWA)**.
+This guide explains how to set up, build, and run the project on your local machine.
 
 ---
 
