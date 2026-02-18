@@ -93,7 +93,8 @@ The primary goal of the application is to process a set of numbers and generate 
 |     2.2 | `docs/Πίνακες-Δείκτες-Αρχεία.pdf` | Arrays, pointers, and file handling (Greek)        |
 |       3 | `src/`                            | Source code implementations                        |
 |     3.1 | `src/Combinations.c`              | Example using pointers and arrays for combinations |
-|       4 | `README.md`                       | Repository overview and instructions               |
+|       4 | `README.md`                       | Project documentation                              |
+|       5 | `INSTALL.md`                      | Usage instructions                                 |
 
 ---
 
